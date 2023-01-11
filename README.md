@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋  I'm Faruk - React.JS/ React Native Developer Here!</h1>
-<br>
 <p>I am a client-focused senior web and hybrid mobile app developer with more than 8 years designing and coding innovative web and mobile applications, and achieving high client satisfaction.
 
 I focus on designing and developing software solutions to business challenges, leveraging React.JS and React Native.
