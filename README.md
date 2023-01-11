@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm Faruk!</h1>
+<h1 align="center">Hi 👋  I'm Faruk - React.JS/ React Native Developer Here!</h1>
 <br>
 <p>I am a client-focused senior web and hybrid mobile app developer with more than 8 years designing and coding innovative web and mobile applications, and achieving high client satisfaction.
 
